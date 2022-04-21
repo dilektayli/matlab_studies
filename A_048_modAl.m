@@ -32,4 +32,5 @@ if kalan ~= 0
             kalan = sayi2 -kalan;
     end 
 end 
+
 end
